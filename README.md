@@ -16,16 +16,6 @@
 
 This was developed as a **Final Year BCA Project** at Christ College (Autonomous), Irinjalakuda, University of Calicut (2021–2024).
 
-### 👥 Team Members
-| Name | Registration No. |
-|------|-----------------|
-| Nandana Jinesh | CCAVBCA023 |
-| Naveed Nihan K M | CCAVBCA045 |
-| Roxon Paul Varghese | CCAVBCA046 |
-| Milan Mathachan | CCAVBCA007 |
-
-**Project Guide:** Mr. Thoufeeq Ansari, Assistant Professor, Department of Computer Science
-
 ---
 
 ## ✨ Features
@@ -250,10 +240,3 @@ The app automatically calculates vaccination dates based on the baby's date of b
 This project was developed for academic purposes as part of the BCA program at Christ College (Autonomous), Irinjalakuda, affiliated to the University of Calicut.
 
 ---
-
-## 🙏 Acknowledgements
-
-- Mr. Thoufeeq Ansari — Project Guide
-- Ms. Sini Thomas — Head of Department, Computer Science
-- Ms. Sowmya P.S — Class Teacher
-- Christ College (Autonomous), Irinjalakuda
